@@ -1,0 +1,33 @@
+{
+  "name": "joker",
+  "version": "0.1.0",
+  "description": "application for testing module 2",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/js/joker.js",
+    "format": "prettier -w src/js/joker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tactikerl/joker.git"
+  },
+  "keywords": [
+    "test",
+    "module",
+    "2",
+    "github"
+  ],
+  "author": "Karl Kvammen <karlmkvammen@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tactikerl/joker/issues"
+  },
+  "homepage": "https://github.com/Tactikerl/joker#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  },
+  "dependencies": {
+    "give-me-a-joke": "^0.5.1"
+  }
+}
