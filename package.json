@@ -1,6 +1,6 @@
 {
   "name": "joker",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "application for testing module 2",
   "type": "module",
   "main": "src/index.js",
