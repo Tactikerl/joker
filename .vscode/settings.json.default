@@ -1,0 +1,23 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.wordWrap": "on",
+  "html.format.wrapLineLength": 60,
+  "files.autoSaveDelay": 0,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "workbench.colorTheme": "Monokai Dimmed",
+  "window.zoomLevel": 1,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "prettier.bracketSameLine": true,
+  "prettier.enableDebugLogs": true,
+  "prettier.withNodeModules": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": ["javascript"],
+  "html.format.extraLiners": ""
+}
